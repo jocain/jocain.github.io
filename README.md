@@ -1,5 +1,5 @@
 ## DATA 146 Extra Credit
-# Liberian Demographic Data Classification Modeling
+# Classification Modeling of Liberian Demographic Data
 
 You can use the [editor on GitHub](https://github.com/jocain/jocain.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
