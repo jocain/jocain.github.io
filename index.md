@@ -11,7 +11,7 @@ Cherenkov Radiation can occur if a charged partice with some velocity <img src="
 <img src="https://latex.codecogs.com/svg.image?\cos{\theta_c}&space;=&space;\frac{c}{nv}." title="\cos{\theta_c} = \frac{c}{nv}." />
 </p>
 
-You can get the Cherenkov angle $\theta_c$ this with Python with the following code:
+You can get the Cherenkov angle <img src="https://latex.codecogs.com/svg.image?\theta_c" title="\theta_c" /> this with Python with the following code:
 
 ```
 import numpy as np
