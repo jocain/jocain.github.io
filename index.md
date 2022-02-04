@@ -1,9 +1,8 @@
 # Project 1
-## More stuff will go here as I make more projects, personal or otherwise. 
 
-In the meantime, here is a cool picture of the Cherenkov Radiation in the :
+Here is a cool picture of the Cherenkov Radiation in the Advanced Test Reactor in Idaho:
 
-![Cherenkov](Advanced_Test_Reactor.jpg)
+![Cherenkov](Advanced_Test_Reactor.jpg =x250)
 
 Cherenkov Radiation can occur if a charged partice with some velocity $v$ enters a material with refractive index $n$. The speed of light in this material is $c/n$, and if is value is less than $v$, then the particle will emit light known as Cherenkov radiation. The angle of radiation emission is directly related to the relative speeds:
 
