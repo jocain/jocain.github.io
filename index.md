@@ -7,7 +7,7 @@ Here is a cool picture of the Cherenkov Radiation in the Advanced Test Reactor i
 
 Cherenkov Radiation can occur if a charged partice with some velocity $v$ enters a material with refractive index $n$. The speed of light in this material is $c/n$, and if is value is less than $v$, then the particle will emit light known as Cherenkov radiation. The angle of radiation emission is directly related to the relative speeds:
 
-$$ \cos{\theta_c} = \frac{c}{nv}. $$
+<img src="https://latex.codecogs.com/svg.image?\cos{\theta_c}&space;=&space;\frac{c}{nv}." title="\cos{\theta_c} = \frac{c}{nv}." />
 
 You can get the Cherenkov angle $\theta_c$ this with Python with the following code:
 
