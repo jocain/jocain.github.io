@@ -5,7 +5,7 @@ Here is a cool picture of the Cherenkov Radiation in the Advanced Test Reactor i
   <img src="Advanced_Test_Reactor.jpg" width="300">
 </p>
 
-Cherenkov Radiation can occur if a charged partice with some velocity <img src="https://latex.codecogs.com/svg.image?v&space;" title="v " /> enters a material with refractive index $n$. The speed of light in this material is $c/n$, and if is value is less than $v$, then the particle will emit light known as Cherenkov radiation. The angle of radiation emission is directly related to the relative speeds:
+Cherenkov Radiation can occur if a charged partice with some velocity <img src="https://latex.codecogs.com/svg.image?v&space;" title="v " /> enters a material with refractive index <img src="https://latex.codecogs.com/svg.image?n" title="n" />. The speed of light in this material is <img src="https://latex.codecogs.com/svg.image?c/n" title="c/n" />, and if is value is less than <img src="https://latex.codecogs.com/svg.image?v&space;" title="v " />, then the particle will emit light, called as Cherenkov radiation. The angle of radiation emission is directly related to the relative speeds:
 
 <p align="center">
 <img src="https://latex.codecogs.com/svg.image?\cos{\theta_c}&space;=&space;\frac{c}{nv}." title="\cos{\theta_c} = \frac{c}{nv}." />
@@ -19,4 +19,4 @@ import numpy as np
 thetac = lambda v, n: np.arccos((2.998*(10**8))/(n*v))
 ```
 
-This assumes a velocity in \[m/s], and returns a value in radians.
+This assumes a velocity in \[m/s], and returns a value in radians. In the picture above, beta particles (electrons) are escaping the reactor and producing Cherenkov radiation in the water, producing the glow. 
